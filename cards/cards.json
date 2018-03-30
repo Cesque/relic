@@ -1,0 +1,29 @@
+[
+  {
+    "id": 0,
+    "name": "Slash",
+    "description": "Deal <4/4> damage",
+    "cost": 1,
+    "behaviours": {
+      "onPlay": [],
+      "onDraw": [],
+      "onEndTurnWithInHand": []
+    },
+
+    "isPower": false,
+    "powers": {
+      "onPlayAnyCard": [],
+      "onGainHealth": [],
+      "onTakeDamage": [],
+      "onEndTurn": [],
+      "onStartTurn": [],
+      "onEnemyPlayAnyCard": [],
+      "onEnemyGainHealth": [],
+      "onEnemyTakeDamage": [],
+      "onEnemyEndTurn": [],
+      "onEnemyStartTurn": [],
+      "onFlip": [],
+      "onDestroyed": []
+    }
+  }
+]
